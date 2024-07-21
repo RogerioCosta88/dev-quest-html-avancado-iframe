@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #dc143c;
+}
+
+p {
+    font-size: 25px;
+    padding: 10px;
+}
+
+p .iframe {
+    background-color: #000;
+    color: #fff;
+}
